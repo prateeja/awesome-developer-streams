@@ -34,18 +34,22 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## Table of Contents
 
-[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
+[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)
 
 ---
 ## A
-- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+
+- [Aaron Schlesiner](#aaron-schlesinger) - **streaming** Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
+- [Adam13531](#adam13531) - **streaming:** Node.js, JavaScript, React, Full Stack Development, Game Development
 - [Adron Hall](#adron-hall) - **streaming:** Go/Golang, C#/dotnetcore, Node.js/JavaScript, Terraform/Infrastructure, System Hacks, Pair Programming, Heavy Metal, Systemic Development, IRL, and sometimes reports and tech news at conferences and such.
 - [Al Sweigart](#al-sweigart) - **streaming:** Python
 - [Albérico Dias Barreto Filho](#albérico-dias-barreto-filho) - **streaming:** Twitch Extension Development, Streams Tools Development, Alexa Skills, IRL, JavaScript
+- [Alemayhu](#alemayhu) - **streaming:** Web Development, Imba, JavaScript
 - [Alexander Simovic](#alexander-simovic) - **streaming:** Serverless, Node.js, JavaScript, Claudia.js, Chat bots, Web Development, OSS
 - [Amorelandra](#amorelandra) - **streaming:** Twitch Extension Development, IRL, JavaScript
 - [Andrew Kelley](#andrew-kelley) - **streaming:** Zig programming language, Compiler, LLVM, ASM
 - [Andy Li](#andy-li) - **streaming:** Haxe, Web Development, Linux packaging
+- [Angie Jones](#angie-jones) - **streaming:** Java, Web Development, Test Automation
 - [Anthony Sottile](#anthony-sottile) - **streaming:** Python, linting, code formatting, testing, refactoring
 - [Antonio Maiorano](#antonio-maiorano) - **streaming:** Emulator Development, C++
 - [Anton Kuzmenko](#anton-kuzmenko) - **streaming:** Go/Golang, Ruby on Rails, Node.js, JavaScript, Terraform, Docker, Kubernetes, Helm, Bash, Vim.
@@ -65,8 +69,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Brad Garropy](#brad-garropy) - **streaming:** JavaScript, Node.js, React, Gatsby, Next, Serverless, Web Development
 - [Brandon Satrom](#brandon-satrom) - **streaming:** IoT, C++, Node.js, JavaScript, Web Development, VueJS, Mobile Development
 - [Brent Schooley (Chef Brent)](#brent-schooley-chef-brent) - **streaming:** Javascript, Python, C#, Swift, Twilio, TwilioQuest, Video Content Creation, Mobile Development, Web Development, Streaming Tech
+- [Brent Ozar](#brent-ozar) - **streaming:** SQL Server, SQL Server optimisation and performance, Database concepts and best practices
 - [Brian Clark (Clarkio)](#brian-clark-clarkio) - **streaming:** Node.js, JavaScript, IoT, Web Development, Swift
-- [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things. 
+- [Brian Lagunas](#brian-lagunas) - **streaming:** Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.
 - [Brian McKenna](#brian-mckenna) - **streaming:** Haskell, Functional Programming
 - [britocoding](#britocoding) - **streaming:** Node.js, JavaScript, TypeScript, React, ReactJS, Web Development
 - [Brookzerker](#brookzerker) - **streaming** Rust
@@ -84,6 +89,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Catalin Miron](#catalin-miron) - **streaming** React, React Native, GraphQL, Javascript, Typescript, Mobile Development, Web Development, Animations
 - [ChaelCodes](#chaelcodes) - **streaming** React, Ruby on Rails, Coding Games
 - [Chiroptical](#chiroptical) - **streaming** Haskell, Elm
+- [Chris Dieringer (cdaringe)](#chris-dieringer-cdaringe) - **streaming** OCaml, Typescript, React, Node
 - [Corey Weathers](#corey-weathers) - **streaming:** C#, .NET Core, ASP.NET Core, Azure, Twilio, Hackerrank, Codewars, TwilioQuest
 - [Codebase Alpha (essenbee)](#codebase-alpha-essenbee) - **streaming:** C#, .Net Core, ASP.Net Core
 - [Codephobia](#codephobia) - **streaming:** Angular, Typescript, Javascript, Go/Golang, Node.js, Terraform, Devops, Docker, AWS, Lambda, Web Development, NativeScript
@@ -92,6 +98,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Coding Garden with CJ](#coding-garden-with-cj) - **streaming:** JavaScript, Vue.js, Node.js, React, Codewars problem solving
 - [Collin Henderson](#collin-henderson) - **streaming:** JavaScript, PHP, Laravel, Vue.js
 - [Cory Knox](#cory-knox) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development
+- [C0d3Spaghetti](#code-sphagetti-ayush-chauhan) - **streaming:** JavaScript, Next.JS, React.js, Node.js, Azure, Serverless
 
 [(top)](#table-of-contents)
 
@@ -117,6 +124,8 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## E
 - [Eddie Jaoude](#eddie-jaoude) - **streaming:** Open Source, JavaScript, Angular, AWS, Serverless, Node, TypeScript, GitHub, Cucumber
 - [Emanuele Bartolesi](#emanuele-bartolesi) - **streaming:** C#, .NET Core, ASP.NET, OSS, GitHub, Pair Programming
+- [Eralp Karaduman](#eralp-karaduman) - **streaming:** iOS, Swift, Flutter, Dart, React Native, React, TypeScript, JavaScript, C#, Unity3D, Pixel Art, Aseprite
+- [Erik St. Martin](#erik-st-martin) - **streaming** Rust, Go/Golang, Video Encoding, Kubernetes
 - [Eser Ozvataf](#eser-ozvataf) - **streaming:** JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
 
 [(top)](#table-of-contents)
@@ -140,7 +149,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Gary Kramlich](#gary-kramlich) - **streaming:** Pidgin Development, Convey Development, OSS Development, C, Golang, Python, JavaScript, Docker, Containers
 - [Gavin Barron](#gavin-barron) - **streaming:** Web Development, C#, TypeScript, Azure, DevOps
 - [Geoffrey Huntley](#geoffrey-huntley) - **streaming:** Haskell, Reactive Extensions, NixOS, OSS Development, C#, .NET, Xamarin, DevOps
+- [Giovanny Gongora](#giovanny-gongora) - **streaming:** JavaScript, Node.js, Rust, C++, Performance, OS Development
 - [Go_Maestro_Go](#go_maestro_go) - **streaming:** JavaScript, Node.js, ReactJS, React Native, APIs, GraphQL, Web Development, Native Apps, Docker, Kubernetes, AWS, Oracle, Heroku, PostgresQL, Angular, Vue, Flutter, Dart, Open-Source, Full-Stack, DevOps
+- [Guy Royse](#guy-royse) - **streaming:** Redis, JavaScript, Software Development, Test Driven Development
 - [Gwen Frey](#gwen-frey) - **streaming:** Game Development, Unreal Blueprint, Animation
 - [Gynvael Coldwind](#gynvael-coldwind) - **streaming:** Software development, Python, C, C++, ASM, Reverse engineering, Hacking, Security
 
@@ -165,6 +176,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ## J
 - [Jack Mott](#jack-mott) - **streaming:** Teaching Programming, Gamedev, Golang, SDL2, OpenGL
 - [Jason Lengstorf](#jlengstorf) - **streaming:** GatsbyJS (React) development
+- [Jeff and Dom Make a Game](#jeff-and-dom-make-a-game) - **streaming**: Game development, pair programming, TypeScript/JavaScript, programming first principles, witty banter
 - [Jeff Fritz](#jeff-fritz) - **streaming:** C#, .NET, ASP.NET, OSS and Pair Programming
 - [Jeff Lindsay](#jeff-lindsay) - **streaming:** Open Source, Game Development, C#, Golang, Docker, Unity3D, JavaScript, Developer Tooling
 - [Jeff Panici](#jeff-panici) - **streaming:** C, C++, Assembly, C#, Rust, JavaScript, Basecode, Programming Language Development, Compiler Development, Web Development, Game Development
@@ -178,10 +190,12 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Jonatas "Jojo" Baldin](#jonatas-jojo-baldin) - **streaming:** Programming, Infrastructure, Serverless, Golang, Python, Knative, OpenFaaS, AWS, GCP, Azure
 - [Jonathan Blow](#jonathan-blow) - **streaming:** Programming, Gamedev, Jai, C++, OpenGL
 - [Jorge Cano](#jorge-cano) - **streaming:** Angular, Javascript, Programming, Web development
+- [Joseph Guadagno](#joseph-guadagno) - **streaming:** C#, .NET, ASP.NET, OSS, Azure, Ionic, and React
 - [Josh Hawkins](#josh-hawkins) - **streaming:** JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
 - [Josh Justice](#josh-justice) - **streaming:** JavaScript, Rails, Ember, React Native
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
 - [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
+- [Julian Duque](#julian-duque) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 
 [(top)](#table-of-contents)
 
@@ -204,6 +218,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Leomendesm](#leomendesm) - **streaming** Javascript, Web Development, React, Elixir
 - [Liz Phillips (Illuminated Space)](#liz-phillips-illuminated-space) - **streaming:** JavaScript, Gatsby, React, Web Development, Data Structures, Playing Video Games
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects
+- [Lucas Montano](#lucas-montano) - **streaming:** - Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 
 [(top)](#table-of-contents)
@@ -215,6 +230,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
 - [Marko Pavlovic](#marko-pavlovic) - **streaming** Python, C++, C#, Game Development, Android, OSS
 - [Masood Sadri](#masood-sadri) - **streaming:** Web Development, JavaScript, Node.js, React
+- [Matt Cowley](#matt-cowley) - **streaming** Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
 - [Matt Groves](#matt-groves) - **streaming** Databases, Couchbase, SQL/NoSQL/SQL++, .NET, C#, ASP.NET, soldering kits, VR, podcasting
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
 - [Matt Podwysocki](#matt-podwysocki) - **streaming** JavaScript, Reactive Extensions, Node.js, C#, .NET Core, React-Native, React, Functional Programming, Open Source Stuff
@@ -225,6 +241,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Michael Henderson](#michael-henderson-robedcoder--leadcoder) - **streaming:** Fullstack development
 - [Michael Jolley](#michael-jolley-baldbeardedbuilder) - **streaming:** C#, JavaScript, .Net Core, IoT
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
+- [MishManners](MishManners) - **streaming:** Game dev, Python, JavaScript, C#, programming, other random coding things (ie. AWS Deep Racer), Ruby, DevOps, GitHub
 
 [(top)](#table-of-contents)
 
@@ -242,6 +259,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ## P
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
+- [Pearly_Owl](#Pearly_Owl) - **streaming:** iOS, Swift, Uni Assignments
 - [Per Vognsen](#per-vognsen) - **streaming:** Software/Hardware low-level development, C, Python, Ion
 - [Phil Nash](#Phil-Nash) - **streaming:** JavaScript, Ruby, Twilio, Open Source, Web Development
 - [PixelogicDev](#PixelogicDev) - **streaming:** iOS, Swift, JavaScript, Node.js, Angular, APIs, Web Development
@@ -256,6 +274,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Randall Hunt](#randall-hunt) - **streaming:** AWS, Web Development, Hardware Hacking, Python, Serverless, AI
 - [Ricardo Tavares](#ricardo-tavares) - **streaming** Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Robin Pokorny](#robin-pokorny) - **streaming:** JavaScript, Functional Programming, Node.js
+- [Robin Thomas](#teknicus) - **streaming:** FOSS, JavaScript Frameworks, Linux, Arduino, Raspberry Pi
 - [Rúben Gomes](#rúben-gomes) - **streaming:** Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
 - [Russell Hay](#russell-hay) - **streaming:** Rust, Functional Programming, Hardware, Generative Art
 - [Ryan Warner](#ryan-warner) - **streaming:** Web design and development, JavaScript, Gatsby, React, Firebase, Node, CSS, UI/UX Design
@@ -270,6 +289,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Sebastian Krzyżanowski](#sebastian-krzyżanowski) - **streaming:** JavaScript, React, Redux + redux-saga, Firebase, Node.js
 - [Sébastien Rancoud](#sébastien-rancoud) - **streaming:** JavaScript, Node.js, PHP, Unreal Engine, Unity, APIs, Web Development
 - [Sergio Cinos](#sergio-cinos) - **streaming:** JavaScript, React, Node.js, Full stack development
+- [Silent_Coyote](#silent_coyote) - **streaming:** C++, Node.js, PHP, JavaScript, Angular, Full Stack Web Development
 - [Shinmera](#shinmera) - **streaming:**: Game Development, Common Lisp
 - [Shirley Wu](#shirley-wu) - **streaming:** Data Visualisation (DataViz), JavaScript, React
 - [Simeon Vincent](#simeon-vincent) - **streaming:** JavaScript, CSS, Web Development, Twitch extensions
@@ -294,14 +314,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Thomas Soerensen](#thomas-soerensen) - **streaming:** Golang, PHP (Laravel), JavaScript
 - [Thorsten Lorenz](#thorsten-lorenz) - **streaming:** Node.js, Module Development, Developer Tooling, Web Development, JavaScript
 - [Tim Ermilov](#tim-ermilov) - **streaming:** OSS, building things with JavaScript, React
+- [Tim Yuen](#tim-yuen) - **streaming:** Game development, Godot, Rust, Music Composition
 - [Tierney Cyren](#tierney-cyren) - **streaming:** Node.js, Node.js Community Committee, JavaScript, Maintaining OSS Projects
 - [Trezy](#trezy) **streaming:** JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
 - [Tsoding](#tsoding) - **streaming:** Game Development, Functional Programming, Programming Language Design, Artificial Intelligence, C, C++, Haskell, Rust, Scala
-- [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP 
+- [TutorExilius](#TutorExilius) - **streaming:** C++, Python, Java, JavaScript, PHP
 - [Tyler Leonhardt](#tyler-leonhardt) - **streaming:** PowerShell, C#, TypeScript, VSCode extension development, Maintaining OSS Projects
 
 
 [(top)](#table-of-contents)
+
+---
+## U
+- [Unspecified (Clark Sell)](#unspecified-clark-sell) - **streaming** Svelte, React Node.js, GraphQL, Tailwind, Javascript, Web Development, Live Code Reviews
 
 ---
 ## V
@@ -330,17 +355,26 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ----
 # Developers That Stream
 
+### Arschles
+#### What Aaron streams:
+- Go/Golang, Python, Javascript, Kubernetes, Helm, Cloud Native
+#### Streaming on:
+- [Twitch](https://twitch.tv/arschles)
+#### Links:
+- [Twitter](https://twitter.com/arschles)
+- [GitHub](https://github.com/arschles)
+- [Website](https://arschles.com)
+
 ### Adam13531
 #### What Adam streams:
-- Node.js, JavaScript, React, PixiJS, Full Stack Development, Game Development
+- Node.js, JavaScript, React, Full Stack Development, Game Development
 #### Streaming on:
-- [Twitch](https://www.twitch.tv/adam13531)
+- [Twitch](https://www.twitch.tv/Adam13531)
 #### Links:
-- [Discord](https://discord.gg/botland)
-- [Twitter](https://twitter.com/Xtonomous)
-- [YouTube](https://www.youtube.com/channel/UCJFxRNHar-c_lKYxFMIPg_g)
-- [Website](https://bot.land)
-- [Blog](https://blog.bot.land)
+- [Discord](https://discord.gg/AdamLearns)
+- [Twitter](https://twitter.com/AdamLearnsLive)
+- [YouTube](https://youtube.com/c/AdamLearns)
+- [Website](https://adamlearns.com)
 
 [(top)](#table-of-contents)
 
@@ -383,6 +417,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/bekoslove)
 - [GitHub](https://github.com/AlbericoD)
 - [Website](https://albericod.github.io/project/#/)
+
+[(top)](#table-of-contents)
+
+---
+### Alemayhu
+#### What Alemayhu streams:
+- Web Development, Imba, JavaScript
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/alemayhu)
+#### Links:
+- [Twitter](https://twitter.com/AAlemayhu)
+- [GitHub](https://github.com/aalemayhu)
+- [Website](https://alemayhu.com)
 
 [(top)](#table-of-contents)
 
@@ -441,6 +488,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/andyli)
 - [Blog](https://blog.onthewings.net/)
 - [Giffon](https://giffon.io/andyli)
+
+[(top)](#table-of-contents)
+
+---
+### Angie Jones
+#### What Angie Jones streams:
+- Java, Web Development, Test Automation
+#### Streaming on:
+- [Youtube](https://www.youtube.com/user/angieluvboo)
+#### Links:
+- [Twitter](https://twitter.com/techgirl1908)
+- [GitHub](https://github.com/angiejones)
+- [LinkedIn](https://www.linkedin.com/in/angiejones)
+- [Website](https://angiejones.tech)
 
 [(top)](#table-of-contents)
 
@@ -645,6 +706,20 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Brent Ozar
+#### What Brent Ozar streams:
+- SQL Server, SQL Server optimisation and performance, Database concepts and best practices
+#### Streaming on:
+- [Twitch](https://twitch.tv/BrentOzar)
+- [YouTube](https://youtube.com/user/BrentOzar)
+- [Facebook](https://www.facebook.com/BrentOzar)
+#### Links:
+- [Twitter](https://twitter.com/BrentOzarULTD)
+- [GitHub](https://github.com/brentozar)
+
+[(top)](#table-of-contents)
+
+---
 ### Brian Clark (Clarkio)
 #### What Brian streams:
 - Node.js, JavaScript, IoT, Web Development, Swift
@@ -661,9 +736,9 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
-### Brian Lagunas 
+### Brian Lagunas
 #### What Brian streams:
-- Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.  
+- Design Patterns and practices, Prism, WPF, UWP, Xamarin Forms, Blazor, Flutter, Angular, React, Vue, geeky things.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/brianlagunas)
 #### Links:
@@ -714,14 +789,13 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 ---
 ### Btor
 #### What Btor streams:
-- French streamer who streams PHP (Symfony 2/3/4), Javascript, Java (Twitch Bot in Swing), Python etc.
+- French streamer who streams PHP (Symfony 2/3/4), Javascript (React, ReactNative) , Java, Python etc.
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/bt0r)
 #### Links:
 - [Twitter](https://twitter.com/biiitor)
 - [GitHub](https://github.com/bt0r)
 - [Website](http://btor.fr/)
-- [Discord](https://discord.gg/NDpZXN5)
 
 [(top)](#table-of-contents)
 
@@ -783,7 +857,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/handmade_hero)
 #### Links:
-- [YouTube](https://www.youtube.com/HandmadeHero)
+- [YouTube](https://www.youtube.com/c/MollyRocket)
 - [Twitter](https://twitter.com/cmuratori)
 - [Website](https://handmadehero.org/)
 
@@ -828,6 +902,17 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [YouTube](https://www.youtube.com/channel/UCndlCtPeYygdGZ9UUKdehbw)
 
 [(top)](#table-of-contents)
+
+---
+### Chris Dieringer (cdaringe)
+#### What Chris Dieringer streams:
+- OCaml, Typescript, React, Node, Rust
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/cdaringe)
+#### Links:
+- [GitHub](https://github.com/cdaringe)
+- [Website](https://cdaringe.com)
+- [YouTube](https://www.youtube.com/cdaringe)
 
 ---
 ### Codebase Alpha (Essenbee)
@@ -933,6 +1018,19 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/coryknox)
 - [GitHub](https://github.com/corbob)
 - [Website](https://knoxy.ca)
+
+[(top)](#table-of-contents)
+
+---
+### C0d3Spaghetti (Ayush Chauhan)
+#### What Ayush streams:
+- JavaScript, Next.JS, React.js, Node.js, Azure, Serverless
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/C0d3Spaghetti)
+#### Links:
+- [Twitter](https://twitter.com/heyayushh)
+- [GitHub](https://github.com/heyayushh)
+- [Website](https://heyayush.live)
 
 [(top)](#table-of-contents)
 
@@ -1169,6 +1267,36 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 
 ---
 
+### Eralp Karaduman
+#### What Eralp streams:
+- Mobile App Development: iOS, Swift, Flutter, Dart, React Native, TypeScript
+- Web Development: React, JavaScript
+- Game Development: C#, Unity3D, Pixel Art, Aseprite
+#### Streaming on:
+- [Twitch](https://twitch.tv/eralpkaraduman)
+#### Languages Spoken During Stream
+- English / Turkish
+#### Links
+- [Twitch](https://twitch.tv/eralpkaraduman)
+- [GitHub](https://github.com/eralpkaraduman)
+- [Website](https://eralpkaraduman.com)
+- [Youtube](https://youtube.com/user/eralpkaraduman)
+
+### Erik St. Martin
+#### What Erik streams:
+- Rust, Go/Golang, Video Encoding, Kubernetes, Helm, Cloud Native
+#### Streaming on:
+- [Twitch](https://twitch.tv/erikdotdev)
+#### Links:
+- [Twitter](https://twitter.com/erikstmartin)
+- [GitHub](https://github.com/erikstmartin)
+- [Website](https://erik.dev/)
+
+
+[(top)](#table-of-contents)
+
+---
+
 ### Eser Ozvataf
 #### What Eser streams:
 - JavaScript, C#, .NET Core, React, OSS, GitHub, Serverless, node.js, TypeScript, Functional Programming, DevOps
@@ -1335,7 +1463,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [GitHub](https://github.com/grimmy)
 - [Website](https://www.reaperworld.com)
 - [Blog](https://garykramlich.blogspot.com/)
-- [YouTube](https://www.youtube.com/garykramlich)
+- [YouTube](https://www.youtube.com/c/garykramlich)
 - [Discord](https://discord.gg/gqWBRDW)
 - [Patreon](https://www.patreon.com/rw_grim)
 - [Pidgin](https://www.pidgin.im)
@@ -1372,6 +1500,21 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 [(top)](#table-of-contents)
 
 ---
+### Giovanny Gongora
+#### What Giovanny Gongora streams:
+- JavaScript, Node.js, Rust, C++
+- Performance
+- OS Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/gioyik)
+#### Links:
+- [Twitter](https://twitter.com/gioyik)
+- [GitHub](https://github.com/gioyik)
+- [Website](https://gioyik.com)
+
+[(top)](#table-of-contents)
+
+---
 ### Go_Maestro_Go
 #### What Go_Maestro_Go (Christian) streams:
 - JavaScript, Node.js, ReactJS, React Native, External APIs, GraphQL, Web Assembly, Oracle JavaScript Extension Toolkit (OJET), Native Apps, Docker, Kubernetes, Cloud Infrastructure, OCI, GCP, AWS, Azure, Heroku, PostgresQL, Open-Source, Full-Stack, DevOps, Machine Learning, Relational Database Design, Google Sheets Automations, Raspberry Pi, IoT, Integrations, BoseAR, Elgato Stream Deck, Trello, Scrum Management
@@ -1390,6 +1533,16 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [StreamLabs](https://streamlabs.com/go_maestro_go)
 
 [(top)](#table-of-contents)
+
+---
+### Guy Royse
+#### What Guy Royse streams:
+- Redis, JavaScript, Software Development, Test Driven Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/guyroyse)
+#### Links:
+- [Twitter](https://twitter.com/guyroyse)
+- [GitHub](https://github.com/guyroyse)
 
 ---
 ### Gwen Frey
@@ -1519,6 +1672,16 @@ PHP, Symfony, Laravel, Lumen Python, Micro Python, Flask, Linux, Docker, JavaScr
 - [Youtube](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A)
 
 [(top)](#table-of-contents)
+
+### Jeff and Dom Make a Game
+#### What Jeff and Dom stream:
+- Game development, pair programming, TypeScript/JavaScript, programming first principles, witty banter
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jeffanddom)
+#### Links:
+- [Twitter](https://twitter.com/jeffanddom)
+- [YouTube](https://www.youtube.com/channel/UCPMLP_iuTLQWxCVYFNt40WA)
+- [GitHub](https://github.com/jeffanddom)
 
 ---
 ### Jeff Fritz
@@ -1711,6 +1874,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
+### Joseph Guadagno
+#### What Joseph Guadagno streams:
+- C#, .NET, ASP.NET, OSS, Azure, Ionic, and React
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/jguadagno)
+#### Links:
+- [Youtube](https://jjg.me/youtube)
+- [Twitter](https://twitter.com/jguadagno)
+- [Website](https://www.josephguadagno.net)
+- [GitHub](https://www.github.com/jguadagno)
+
+[(top)](#table-of-contents)
+---
 ### Josh Hawkins
 #### What Hawkins streams:
 - JavaScript, Node.js, C++, Elixir, Python, OSS Projects, Gaming
@@ -1760,6 +1936,20 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/sitapati)
 - [GitHub](https://github.com/jwulf)
 - [Website](https://www.magikcraft.io)
+
+[(top)](#table-of-contents)
+
+---
+### Julian Duque
+#### What Julian Duque streams:
+- JavaScript, Node.js, Frameworks
+- Developer Tooling
+- Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/julianduque/)
+#### Links:
+- [Twitter](https://twitter.com/julian_duque/)
+- [GitHub](https://github.com/julianduque/)
 
 [(top)](#table-of-contents)
 
@@ -1932,6 +2122,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 [(top)](#table-of-contents)
 
 ---
+### Lucas Montano
+#### What Lucas streams:
+- Android, Node.js, Twitch extensions, Typescript, Open Source, Flutter, React.
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/lucas_montano)
+#### Links:
+- [GitHub](https://github.com/lucasmontano)
+- [Twitter](https://twitter.com/lucas_montano)
+- [YouTube](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+
+[(top)](#table-of-contents)
+
+---
 ### Luke Gorrie
 #### What Luke streams:
 - C, Lua, RaptorJIT, R, Nix, Network drivers
@@ -2008,7 +2211,7 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 #### Links:
 - [Website](https://shiva.codes)
 - [Twitter](https://twitter.com/Mark0x1)
-- [Github](https://github.com/MarkoShiva) 
+- [Github](https://github.com/MarkoShiva)
 
 [(top)](#table-of-contents)
 
@@ -2024,6 +2227,21 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [Twitter](https://twitter.com/MasoodSadri)
 - [YouTube](https://www.youtube.com/user/masoodsadri)
 - [Website](http://frontcast.ir/)
+
+[(top)](#table-of-contents)
+
+---
+### Matt Cowley
+#### What Matt streams:
+- Maintaing Open Source Projects, Node.js, JavaScript, CSS, HTML, Vue, Web Development
+#### Streaming on:
+- [Twitch](https://twitch.tv/mattipv4)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/MattIPv4)
+- [GitHub](https://github.com/MattIPv4)
+- [Website](https://mattcowley.co.uk/)
 
 [(top)](#table-of-contents)
 
@@ -2186,6 +2404,23 @@ Also known as MPJ from Fun Fun Function
 [(top)](#table-of-contents)
 
 ---
+###
+MishManners
+#### What Mish streams:
+- Hackathons, conference news, C#, Unity, Twilio Quest, JavaScript, GitHub, Python, Ruby, Machine Learning, AWS, DevOps
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/MishManners/)
+#### Links:
+- [Twitter](https://twitter.com/MishManners)
+- [LinkedIn](https://www.linkedin.com/in/mishmanners/)
+- [Instagram](https://instagram.com/MishManners_)
+- [YouTube](https://www.youtube.com/c/MishManners)
+- [Discord](https://discordapp.com/invite/f4NFzFt)
+- [Website](http://mishmanners.com) + [Blog](https://hackathonqueen.com)
+
+[(top)](#table-of-contents)
+
+---
 ### Nicholas Brochu
 #### What Nicholas streams:
 - Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
@@ -2282,6 +2517,18 @@ Also known as MPJ from Fun Fun Function
 - [Website](http://pavithrakodmad.com)
 - [Twitter](https://twitter.com/PKodmad)
 - [GitHub](https://github.com/pksjce)
+
+[(top)](#table-of-contents)
+
+---
+### Pearly Owl
+#### What PK streams:
+- iOS, Swift, Sometimes Uni Assignments
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/pearly_owl)
+#### Links:
+- [Twitter](https://twitter.com/Pearly_Owl)
+- [GitHub](https://github.com/NadzeyaD)
 
 [(top)](#table-of-contents)
 
@@ -2412,6 +2659,19 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
+### Robin Thomas
+#### What Robin Pokorny streams:
+- FOSS, JavaScript Frameworks, Linux, Arduino, Raspberry Pi
+#### Streaming on:
+- [YouTube](https://www.youtube.com/c/JumpStarts)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [LinkTree](https://bit.ly/JS-links)
+
+[(top)](#table-of-contents)
+
+---
 ### Rúben Gomes
 #### What Rúben streams:
 - Node.js, JavaScript, Vue, ES6/ES7, Full Stack Development
@@ -2536,6 +2796,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 - [Twitter](https://twitter.com/scinos)
 - [GitHub](https://github.com/scinos/)
 - [Website](https://www.youtube.com/channel/UCWWgBvd400EdnUF791ZjSeg)
+
+[(top)](#table-of-contents)
+
+---
+### Silent_Coyote
+#### What Silent "Ky" Coyote streams:
+- C++, Game Development, Node.js, PHP, JavaScript, Angular, Docker, DevOps, Full Stack Web Development
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/silent_coyote)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/HelloKyYT)
+- [GitHub](https://github.com/RedactedProfile/)
+- [Website](https://redacteddevworks.ca)
 
 [(top)](#table-of-contents)
 
@@ -2737,17 +3012,16 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 
 ---
 ### Ted M. Young
-#### What Ted (Jitterted) streams:
+#### What Ted (JitterTed) streams:
 - Java, Spring Boot, Spring MVC, Spring Data, Spring Cloud, TDD, JUnit, Web Development, Design Patterns, DDD, Hexagonal Architecture, IntelliJ IDEA
 #### Streaming on:
 - [Twitch](https://twitch.tv/jitterted)
 #### Links:
 - [Twitter](https://twitter.com/jitterted)
-- [YouTube](https://www.youtube.com/channel/UCx8qMdZ6JoZgOcOQxWlyV8A)
-- [Website](https://www.tedmyoung.com)
+- [YouTube](https://JitterTed.TV)
+- [Website](https://ted.dev)
 - [Patreon](https://www.patreon.com/jitterted)
 - [GitHub](https://www.github.com/tedyoung)
-- [Newsletter](https://upscri.be/f34570/)
 
 [(top)](#table-of-contents)
 
@@ -2820,6 +3094,17 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
+### Tim Yuen
+#### What Tim streams:
+- Game development, Godot, Rust, Music Composition
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/team_youwin)
+#### Links:
+- [Twitter](https://twitter.com/fakefirefly)
+- [Github](https://github.com/you-win)
+- [Website](https://timothyyuen.io/)
+
+---
 ### Trezy
 #### What Trezy streams:
 - JavaScript, Node.js, React.js, Next.js, Game Development, Web Development
@@ -2848,9 +3133,9 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
-### TutorExilius 
+### TutorExilius
 #### What TutorExilius streams:
-- C++, Python, Java, JavaScript, PHP 
+- C++, Python, Java, JavaScript, PHP
 #### Streaming on:
 - [Twitch](https://www.twitch.tv/TutorExilius)
 - [YouTube](https://www.youtube.com/c/TutorExilius/live) sometimes
@@ -2883,9 +3168,21 @@ Angular 6+, SCSS, LUA, Node.js, Python, SQL, Typescript, WASM, Web Development
 [(top)](#table-of-contents)
 
 ---
-### Vogue and Code (April Speight) 
+###  Unspecified (Clark Sell)
+#### What Unspecified streams:
+- Svelte, React Node.js, GraphQL, Tailwind, Javascript, Web Development, Live Code Reviews
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/unspecifiedsoftware)
+#### Links:
+- [Twitter](https://twitter.com/csell5)
+- [GitHub](https://github.com/hellounspecified)
+
+[(top)](#table-of-contents)
+
+---
+### Vogue and Code (April Speight)
 #### What April streams:
-- Mixed Reality Toolkit, Mixed Reality, Virtual Reality, Augmented Reality, Basic programming concepts 
+- Mixed Reality Toolkit, Mixed Reality, Virtual Reality, Augmented Reality, Basic programming concepts
 #### Languages Spoken During Stream
 - English
 #### Streaming on:
